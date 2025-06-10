@@ -4,12 +4,6 @@ This repository contains a full-stack application consisting of two main compone
 
 ## 🚀 Quickstart
 
-### 📥 Installing Node.js
-
-If you haven't done so already, ensure that both Node.js and NVM are installed.
-
-1. Install Node Version Manager (NVM):
-
 ## 🏗️ Project Structure
 
 This repository consists of two applications:
@@ -18,8 +12,6 @@ This repository consists of two applications:
 - A backend API server
 
 These applications communicate via HTTP requests and must be run separately.
-
-## 🚀 Quickstart
 
 ### 📥 Installing Node.js
 
@@ -51,7 +43,7 @@ If you haven't done so already, ensure that both Node.js and NVM are installed.
    ```
 4. Install an ESLint plugin for your code editor, such as 
    [ESLint for VSCode](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint).
-6. Install MongoDB
+5. Install MongoDB
 
    ```
    brew tap mongodb/brew
