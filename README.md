@@ -81,6 +81,14 @@ NODE_ENV="development"
 JWT_SECRET="secret"
 ```
 
+Create a file named `api/.env.test` with the following content:
+
+```
+MONGODB_URL = "mongodb://0.0.0.0/acebook_test"
+NODE_ENV = "test"
+JWT_SECRET = "a_different_secret_for_tests"
+```
+
 ## 🏃‍♂️ Running the Application
 
 1. Start the backend API server (located in the `api` directory) in development mode:

@@ -159,8 +159,6 @@ async function updateUser(req, res) {
   } catch (err) {
     console.error("Error caught:", err);
     return res.status(400).json({ message: err.message });
-    console.error("Error caught:", err);
-    return res.status(400).json({ message: err.message });
   }
 }
 
