@@ -105,10 +105,10 @@ After signing up, you can log in by going to `http://localhost:5173/login`.
 
 ## 👥 Contributors
 
-- [@jackmisner](https://github.com/jackmisner)
-- [@amritpalc](https://github.com/AmritpalC)
 - [@aysinakpinar](https://github.com/aysinakpinar)
-- [@Michal-P-1](https://github.com/Michal-P-1)
 - [@AMcGill3](https://github.com/AMcGill3)
+- [@amritpalc](https://github.com/AmritpalC)
+- [@jackmisner](https://github.com/jackmisner)
+- [@Michal-P-1](https://github.com/Michal-P-1)
 - [@zameermohamed](https://github.com/zameermohamed)
 - [@ziaxgit](https://github.com/ziaxgit)
