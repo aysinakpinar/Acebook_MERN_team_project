@@ -2,8 +2,6 @@
 
 This repository contains a full-stack application consisting of two main components: a React-based frontend and a backend API server. The frontend is built with React and provides the user interface for interacting with the application, while the backend is an API server that handles data storage and processing. These two components communicate with each other via HTTP requests and need to be run separately. The project uses MongoDB as the database for storing application data. To get started, you will need to set up both the frontend and backend, configure the necessary environment variables, and ensure that the correct versions of Node.js and MongoDB are installed.
 
-## 🚀 Quickstart
-
 ## 🏗️ Project Structure
 
 This repository consists of two applications:
@@ -12,6 +10,8 @@ This repository consists of two applications:
 - A backend API server
 
 These applications communicate via HTTP requests and must be run separately.
+
+## 🚀 Quickstart
 
 ### 📥 Installing Node.js
 
